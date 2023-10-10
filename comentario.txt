@@ -1,0 +1,13 @@
+Repositorio:
+https://github.com/SentinelNexus/Apps-para-iOS
+
+5 Things that I have learned from development of this activity:
+Flutter Fundamentals: I gained a better understanding of Flutter's fundamental concepts, including widgets, layouts, and state management.
+
+User Interface Design: I learned how to design user interfaces, create forms, and apply styling to create an appealing and functional user experience.
+
+Authentication Logic: Through implementing a login system, I learned about user authentication, handling user input, and verifying credentials.
+
+Navigation: I learned how to navigate between different screens or pages in my Flutter app, such as moving from a login page to a home page.
+
+Version Control with Git and GitHub: I learned how to use Git for version control, make commits, and push changes to a remote repository on GitHub, which is essential for collaborative software development.
